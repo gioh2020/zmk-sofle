@@ -6,12 +6,12 @@ manifest:
       # See:
       # - https://zmk.dev/docs/features/modules
       # - https://docs.zephyrproject.org/3.5.0/develop/west/manifest.html#projects
-    - name: gpeye
-      url-base: https://github.com/GPeye
+    - name: gioh2020
+      url-base: https://github.com/gioh2020
   projects:
-    - name: mario-peripheral-animation
-      remote: gpeye
-      revision: main 
+    - name: vegeta-peripheral-animation
+      remote: gioh2020
+      revision: main
     - name: zmk
       remote: zmkfirmware
       revision: main
