@@ -11,7 +11,7 @@ manifest:
   projects:
     - name: vegeta-peripheral-animation
       remote: gioh2020
-      revision: main
+      revision: display-profile-status
     - name: zmk
       remote: zmkfirmware
       revision: v0.3.0
