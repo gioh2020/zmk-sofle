@@ -8,7 +8,7 @@ include:
     cmake-args: -DCONFIG_ZMK_STUDIO=y -DCONFIG_ZMK_STUDIO_LOCKING=n
     artifact-name: eyelash_sofle_studio_right
   - board: eyelash_sofle_left
-    shield: nice_view
+    shield: nice_view_custom_left
   - board: eyelash_sofle_right
     shield: settings_reset
   - board: eyelash_sofle_left
